@@ -1,6 +1,6 @@
 public class Application {
 
-//    ini percobaan cicd
+//    tes
 
     private static Barn barn;
 
