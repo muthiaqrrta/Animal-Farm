@@ -1,5 +1,7 @@
 public class Application {
 
+//    ini percobaan cicd
+
     private static Barn barn;
 
     public static void main(String[] args) {
