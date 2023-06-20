@@ -69,6 +69,4 @@ public class Application {
         System.out.printf("%n");
         selection();
     }
-
-
 }
