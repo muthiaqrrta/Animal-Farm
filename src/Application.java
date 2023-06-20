@@ -1,7 +1,5 @@
 public class Application {
 
-//    tes
-
     private static Barn barn;
 
     public static void main(String[] args) {
