@@ -1,6 +1,6 @@
 public class Application {
 
-//    coba lagi
+//    tes
 
     private static Barn barn;
 
